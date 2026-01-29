@@ -1,10 +1,10 @@
  Project Name: X or O ?
-+ Miêu tả
+ Miêu tả
 
 X or O ? là một game puzzle 2D đơn giản được phát triển bằng Unity.
 Project tập trung vào logic gameplay, xử lý lượt chơi và xây dựng computer player để người chơi có thể đấu với máy.
 
-+ Tính năng chính:
+Tính năng chính:
 
 - Gameplay X or O chuẩn 3x3
 
@@ -18,13 +18,13 @@ Project tập trung vào logic gameplay, xử lý lượt chơi và xây dựng 
 
 - Máy tự động đánh theo luật cơ bản
 
-+ Công nghệ sử dụng:
+Công nghệ sử dụng:
 
 - Unity
 
 - C#
 
-+ Vai trò:
+Vai trò:
 
 - Lập trình gameplay và xử lý logic trò chơi
 
@@ -32,7 +32,7 @@ Project tập trung vào logic gameplay, xử lý lượt chơi và xây dựng 
 
 - Thiết lập UI cơ bản cho bàn cờ và trạng thái game
 
-+ Kỹ thuật áp dụng:
+Kỹ thuật áp dụng:
 
 - Tách logic game và hiển thị UI để dễ quản lý
 
@@ -40,11 +40,11 @@ Project tập trung vào logic gameplay, xử lý lượt chơi và xây dựng 
 
 - Viết code theo hướng dễ mở rộng (có thể nâng cấp AI sau này)
 
-+ Gameplay Preview:
+Gameplay Preview:
 
 - Youtube: https://youtu.be/pCXLInjSGU4
 
-+ Những gì học được:
+Những gì học được:
 
 - Cách xây dựng logic cho game puzzle
 
@@ -54,6 +54,6 @@ Project tập trung vào logic gameplay, xử lý lượt chơi và xây dựng 
 
 - Làm quen với việc xây dựng computer player đơn giản
 
-+ Ghi chú:
-Đây là một dự án nhỏ nhằm mục đích luyện tập tư duy logic và cấu trúc gameplay.
-Project tập trung vào độ rõ ràng của code và luồng xử lý, không đặt nặng thuật toán AI phức tạp.
+Ghi chú:
+- Đây là một dự án nhỏ nhằm mục đích luyện tập tư duy logic và cấu trúc gameplay.
+- Project tập trung vào độ rõ ràng của code và luồng xử lý, không đặt nặng thuật toán AI phức tạp.
